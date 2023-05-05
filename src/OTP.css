@@ -1,0 +1,28 @@
+.App{
+  text-align: center;
+}
+
+.popup{
+  height: 300px;
+  width: 50%;
+  background-color: #1e3d59;
+  color: white;
+  position: absolute;
+  top: 25%;
+  right: 25%;
+}
+
+.popup-header{
+  display: flex;
+  justify-content: space-between;
+  padding: 0 30px 0 15px;
+  border-bottom: 2px solid black;
+}
+
+.otp-field{
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  margin-top: 10px;
+  text-align: center;
+}
